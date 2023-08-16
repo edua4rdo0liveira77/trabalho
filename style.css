@@ -32,3 +32,8 @@ button {
     text-align: center;
     font-weight: bold;
 }
+
+  body{
+    background-color: green;
+    text-align: center;
+  } 
